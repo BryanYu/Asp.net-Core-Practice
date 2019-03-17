@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Startup", "AspNetCorePractice\Startup.csproj", "{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Startup", "01-Startup", "{9F9CE72E-21E6-4979-983C-9771EA7D13F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBA1C7FF-CFE3-46A5-BC6B-8BB1DD316B90} = {9F9CE72E-21E6-4979-983C-9771EA7D13F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF214BD6-6A3E-49A5-ADAE-AD069BB3105E}
+	EndGlobalSection
+EndGlobal
